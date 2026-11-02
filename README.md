@@ -1,21 +1,27 @@
+<p><img src="https://github.com/user-attachments/assets/3b27cd14-dcf7-4ddb-8b44-a980b350eba1" width="100%" alt="浅色山水与梅枝背景" /></p>
+
 # 🌸 Hi ~ 我是 小羊不当咸鱼
 
-<img align="right" src="https://patchwiki.biligame.com/images/whmx/d/d5/ottuz2m36ld50kyqr0y95y3cb79l59v.png" width="165" alt="物华弥新 · 蝠桃瓶" />
+<img align="right" src="https://patchwiki.biligame.com/images/whmx/d/d5/ottuz2m36ld50kyqr0y95y3cb79l59v.png" width="140" alt="物华弥新 · 蝠桃瓶" />
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/LangChain-2C6B58?style=flat-square" alt="LangChain" />
-<img src="https://img.shields.io/badge/LangGraph-4A8B83?style=flat-square" alt="LangGraph" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Python-DCEBF4?style=flat&amp;logo=python&amp;logoColor=526C7C" alt="Python" />
+<img src="https://img.shields.io/badge/LangChain-DFECE6?style=flat" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-DFECE6?style=flat" alt="LangGraph" />
+<img src="https://img.shields.io/badge/FastAPI-DFECE6?style=flat&amp;logo=fastapi&amp;logoColor=526C7C" alt="FastAPI" />
 </p>
 <p>
-<img src="https://img.shields.io/badge/AI_Agent-8B75B6?style=flat-square" alt="AI Agent" />
-<img src="https://img.shields.io/badge/RAG-6C9BB1?style=flat-square" alt="RAG" />
-<img src="https://img.shields.io/badge/MCP-D49A78?style=flat-square" alt="MCP" />
-<img src="https://img.shields.io/badge/Tool_Calling-94AE87?style=flat-square" alt="Tool Calling" />
+<img src="https://img.shields.io/badge/AI_Agent-E8E1F1?style=flat" alt="AI Agent" />
+<img src="https://img.shields.io/badge/RAG-E0EAF4?style=flat" alt="RAG" />
+<img src="https://img.shields.io/badge/MCP-E8E1F1?style=flat" alt="MCP" />
+<img src="https://img.shields.io/badge/Tool_Calling-E0EAF4?style=flat" alt="Tool Calling" />
 </p>
+
+<br clear="both" />
 
 ## ABOUT ME
+
+<img align="right" src="https://patchwiki.biligame.com/images/whmx/e/e8/0qpd8jpkr37gumkzcggfdhl2fswtxj3.png" width="140" alt="金瓯永固杯 · 流年如戏" />
 
 - 🏫 **山东大学软件工程29届**
 - 💻 后端/AI Agent
@@ -25,6 +31,8 @@
 <br clear="both" />
 
 ## 🛠 Coding & Tools
+
+<img align="right" src="https://patchwiki.biligame.com/images/whmx/b/bc/g4dvo8n8rep60udd4bmsu3jsonv7d8k.png" width="150" alt="雪景寒林图 · 风雪载途" />
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="48" height="48" alt="CLion" title="CLion" />
@@ -36,17 +44,6 @@
 <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex-color.svg" width="48" height="48" alt="Codex" title="Codex" />
 </p>
 
-## 🍑 物华弥新 · 兴趣角
+<br clear="both" />
 
-<table>
-<tr>
-<td align="center"><b>金瓯永固杯 · 流年如戏</b></td>
-<td align="center"><b>雪景寒林图 · 风雪载途</b></td>
-</tr>
-<tr>
-<td align="center"><img src="https://patchwiki.biligame.com/images/whmx/e/e8/0qpd8jpkr37gumkzcggfdhl2fswtxj3.png" width="240" alt="金瓯永固杯 · 流年如戏" /></td>
-<td align="center"><img src="https://patchwiki.biligame.com/images/whmx/b/bc/g4dvo8n8rep60udd4bmsu3jsonv7d8k.png" width="240" alt="雪景寒林图 · 风雪载途" /></td>
-</tr>
-</table>
-
-<sub>角色图来自《物华弥新》，展示来源：<a href="https://wiki.biligame.com/whmx/金瓯永固杯">金瓯永固杯</a> / <a href="https://wiki.biligame.com/whmx/雪景寒林图">雪景寒林图</a>。</sub>
+<sub>角色图来自《物华弥新》：蝠桃瓶 / 金瓯永固杯「流年如戏」 / 雪景寒林图「风雪载途」。</sub>
