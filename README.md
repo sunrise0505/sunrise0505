@@ -1,5 +1,3 @@
-<p><img src="https://github.com/user-attachments/assets/3d1a9c46-6268-4367-9248-606a771034da" width="100%" alt="物华弥新封面" /></p>
-
 # 🌸 Hi ~ 我是 小羊不当咸鱼
 
 <img align="right" src="https://github.com/user-attachments/assets/f2336f30-adcc-486c-bbbf-098a99ffe2d5" width="280" alt="蝠桃瓶、金瓯永固杯流年如戏、雪景寒林图风雪载途叠放组合" />
