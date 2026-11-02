@@ -1,8 +1,8 @@
-<p><img src="https://github.com/user-attachments/assets/3b27cd14-dcf7-4ddb-8b44-a980b350eba1" width="100%" alt="浅色山水与梅枝背景" /></p>
+<p><img src="https://github.com/user-attachments/assets/3d1a9c46-6268-4367-9248-606a771034da" width="100%" alt="物华弥新封面" /></p>
 
 # 🌸 Hi ~ 我是 小羊不当咸鱼
 
-<img align="right" src="https://patchwiki.biligame.com/images/whmx/d/d5/ottuz2m36ld50kyqr0y95y3cb79l59v.png" width="140" alt="物华弥新 · 蝠桃瓶" />
+<img align="right" src="https://github.com/user-attachments/assets/f2336f30-adcc-486c-bbbf-098a99ffe2d5" width="280" alt="蝠桃瓶、金瓯永固杯流年如戏、雪景寒林图风雪载途叠放组合" />
 
 <p>
 <img src="https://img.shields.io/badge/Python-DCEBF4?style=flat&amp;logo=python&amp;logoColor=526C7C" alt="Python" />
@@ -17,22 +17,14 @@
 <img src="https://img.shields.io/badge/Tool_Calling-E0EAF4?style=flat" alt="Tool Calling" />
 </p>
 
-<br clear="both" />
-
 ## ABOUT ME
-
-<img align="right" src="https://patchwiki.biligame.com/images/whmx/e/e8/0qpd8jpkr37gumkzcggfdhl2fswtxj3.png" width="140" alt="金瓯永固杯 · 流年如戏" />
 
 - 🏫 **山东大学软件工程29届**
 - 💻 后端/AI Agent
 - 🌱 本科就业尝试中
 - 🎮 五花米线收藏家
 
-<br clear="both" />
-
 ## 🛠 Coding & Tools
-
-<img align="right" src="https://patchwiki.biligame.com/images/whmx/b/bc/g4dvo8n8rep60udd4bmsu3jsonv7d8k.png" width="150" alt="雪景寒林图 · 风雪载途" />
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="48" height="48" alt="CLion" title="CLion" />
@@ -46,4 +38,4 @@
 
 <br clear="both" />
 
-<sub>角色图来自《物华弥新》：蝠桃瓶 / 金瓯永固杯「流年如戏」 / 雪景寒林图「风雪载途」。</sub>
+<sub>角色来自《物华弥新》：蝠桃瓶 / 金瓯永固杯「流年如戏」 / 雪景寒林图「风雪载途」；叠放图为 AI 辅助合成。</sub>
